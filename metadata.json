@@ -1,0 +1,7 @@
+{
+  "name": "integen aichat",
+  "description": "A focused AI conversational assistant designed for clear, accurate answers and deep knowledge exploration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
